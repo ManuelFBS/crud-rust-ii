@@ -2,3 +2,6 @@
 
 # Enviropment vars...
 .env
+
+# Tests
+test.http
